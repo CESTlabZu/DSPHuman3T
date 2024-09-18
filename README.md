@@ -1,7 +1,7 @@
 # DSPHuman3T
 ## Specific APT and NOE imaging using DSP-CEST in humans at 3T ##
 
-**Authors:** Li Li, Hongquan Zhu, XiaoXiao Zhang, Malvika Viswanathan, Zhongliang Zu   
+**Authors:** Li Li, Hongquan Zhu, Xiaoxiao Zhang, Anqi Hu, Malvika Viswanathan, Wenzheng Zhu, Zhongliang Zu   
 **Journal:** NMR in Biomedicine   
 **DOI:**    
 
